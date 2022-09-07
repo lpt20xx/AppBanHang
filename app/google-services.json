@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957056505218",
+    "project_id": "appbanhang-d4b08",
+    "storage_bucket": "appbanhang-d4b08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957056505218:android:251519fa47d27f1f7d2b9b",
+        "android_client_info": {
+          "package_name": "com.example.appbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957056505218-68uam3gu4i8nbgck9dqn9madcultqfb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwDYy-YDD-Gjk7SjAqJOOWSYTo0YTU10c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957056505218-68uam3gu4i8nbgck9dqn9madcultqfb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
